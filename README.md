@@ -1,6 +1,6 @@
-<h2>Hello, I'm Eunjin Woo 🌞</h2>
+<h1>Hello, I'm Eunjin Woo 🌞</h1>
 
-<h3>🐮 About Me</h3>
+<h2>🐮 About Me</h2>
 <p>
   A frontend developer who finds great fulfillment in diving deep into problems 
   and discovering effective solutions, always eager to learn and embrace new challenges. 🙂
@@ -10,7 +10,7 @@
   항상 배우고 새로운 도전을 받아들이는 것에 열정적인 프론트엔드 개발자입니다. 🙂
 </p>
 
-<h3>👩‍🏫 Education</h3>
+<h2>👩‍🏫 Education</h2>
       <ul>
         <li>KyungHee University (2020.03 - ing)</li>
         <ul>
@@ -19,21 +19,21 @@
         </ul>
       </ul>
 
-<h3>🏆 Awards</h3>
+<h2>🏆 Awards</h2>
     <ul>
       <li>2022 | T.G.thon 우승</li>
       <li>2024 | KHUthon 기술상(Technical Award)</li>
       <li>2024 | Saarland University Summer Entrepreneurship Program - 1st Prize (Final Presentation)</li>
     </ul>
 
-<h3>🤹 Activities</h3>
+<h2>🤹 Activities</h2>
     <ul>
       <li>2022.08-12 | SpartaCodingCamp AI Web Development Track 8th 수료</li>
       <li>2024.07 | Saarland University Summer Entrepreneurship Program</li>
       <li>2024.08 - (ing) | 9roomthonUniv 구름톤유니브</li>
     </ul>
 
-<h3>💻 Tech Skills</h3>
+<h2>💻 Tech Skills</h2>
   <div style="display: flex; gap: 5px">
     <!-- HTML -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
