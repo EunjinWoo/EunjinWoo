@@ -12,7 +12,8 @@
   <ul>
     <li>KyungHee University (2020.03 - ing)</li>
     <ul>
-      <li>major : Computer Engineering / minor : Art & Technology</li>
+      <li>major : Computer Engineering</li>
+      <li>minor : Art & Technology</li>
     </ul>
   </ul>
 
