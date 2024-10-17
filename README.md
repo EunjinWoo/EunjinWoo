@@ -36,7 +36,7 @@
     </ul>
 
 <h3>💻 Tech Skills</h3>
-<p> : things I experienced </p>
+<p>    : things I've experienced </p>
   <div style="display: flex; gap: 5px">
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></a>
     <a href="https://react.dev/" target="_blank"> <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" height="42px"/> </a> 
