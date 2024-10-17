@@ -64,16 +64,16 @@
     </a>
     <!-- MongoDB -->
     <a href="https://www.mongodb.com/" target="_blank"> 
-      <img align="left" src="https://webimages.mongodb.com/_com_assets/cms/kuyjhk487p8kwd52b-MongoDB_Logo_FullColorBlack_RGB.svg" alt="MongoDB" height="42px"/> 
-    </a>
+  <img align="left" src="https://www.svgrepo.com/show/331488/mongodb.svg" alt="MongoDB" height="42px"/> 
+</a>
     <!-- JavaScript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="42px"/> 
     </a>
     <!-- Jupyter Notebook -->
     <a href="https://jupyter.org/" target="_blank"> 
-      <img align="left" src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook" height="42px"/> 
-    </a>
+  <img align="left" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="Jupyter Notebook" height="42px"/> 
+</a>
     <!-- Visual Studio -->
     <a href="https://visualstudio.microsoft.com/" target="_blank"> 
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" height="42px"/> 
@@ -84,8 +84,8 @@
     </a>
     <!-- Android Studio -->
     <a href="https://developer.android.com/studio" target="_blank"> 
-      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" height="42px"/> 
-    </a>
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" height="42px"/> 
+</a>
     <!-- TypeScript -->
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></a>
     <!-- React -->
