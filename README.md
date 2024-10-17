@@ -10,6 +10,7 @@
   항상 배우고 새로운 도전을 받아들이는 것에 열정적인 프론트엔드 개발자입니다. 🙂
 </p>
 
+
 <h3>👩‍🏫 Education</h3>
       <ul>
         <li>KyungHee University (2020.03 - ing)</li>
@@ -19,7 +20,6 @@
         </ul>
       </ul>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 50%;" />
 
 <h3>🏆 Awards</h3>
     <ul>
@@ -28,12 +28,14 @@
       <li>2024 | Saarland University Summer Entrepreneurship Program - 1st Prize (Final Presentation)</li>
     </ul>
 
+
 <h3>🤹 Activities</h3>
     <ul>
       <li>2022.08-12 | SpartaCodingCamp AI Web Development Track 8th 수료</li>
       <li>2024.07 | Saarland University Summer Entrepreneurship Program</li>
       <li>2024.08 - (ing) | 9roomthonUniv 구름톤유니브</li>
     </ul>
+
 
 <h3>💻 Tech Skills</h3>
   <div style="display: flex; gap: 5px">
@@ -117,3 +119,6 @@
     <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="tensorflow" height="42px"/> </a> 
   </div>
 <p> -> things I've experienced.🧍‍♀️ </p>
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 50%;" />
