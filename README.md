@@ -19,7 +19,7 @@
         </ul>
       </ul>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 100%;" />
+<img src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 50%;" />
 
 
 
