@@ -5,12 +5,17 @@
 
 A frontend developer who finds great fulfillment in diving deep into problems and discovering effective solutions, always eager to learn and embrace new challenges.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" /></p>
-
+<div style="display: flex; justify-content: space-between;">
+<div style="width: 48%;">  
 ## 👩‍🏫 Education
 - KyungHee University (2020.03 - ing )
   - major : Computer Engineering
   - minor : Art & Technology
+</div>
+<div style="width: 48%;">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" /></p>
+</div>
+</div>
 
 
 
