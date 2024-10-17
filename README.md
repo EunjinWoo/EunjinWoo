@@ -114,6 +114,6 @@
     <!-- Tensorflow -->
     <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="tensorflow" height="42px"/> </a> 
   </div>
-</br><p> -> things I've experienced.🧍‍♀️ </p>
+</br></br><p> -> things I've experienced.🧍‍♀️ </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 50%;" />
