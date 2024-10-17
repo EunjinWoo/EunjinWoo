@@ -9,9 +9,12 @@
 </p>
 
 <h2>👩‍🏫 Education</h2>
-  <p>
-    KyungHee University (2020.03 - ing) - major : Computer Engineering / minor : Art & Technology
-  </p>
+  <ul>
+    <li>KyungHee University (2020.03 - ing)</li>
+    <ul>
+      <li>major : Computer Engineering / minor : Art & Technology</li>
+    </ul>
+  </ul>
 
 <h2>🏆 Awards</h2>
     <ul>
