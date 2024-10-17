@@ -1,4 +1,4 @@
-<h1>Hello, I'm Eunjin Woo 🌞</h1>
+<h2>Hello, I'm Eunjin Woo 🌞</h2>
 
 <h3>🐮 About Me</h3>
 <p>
