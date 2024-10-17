@@ -57,6 +57,14 @@
     <a href="https://nestjs.com/" target="_blank"> 
   <img align="left" src="https://docs.nestjs.com/assets/logo-small.svg" alt="NestJS" height="42px"/> 
 </a>
+    <!-- Dart -->
+    <a href="https://dart.dev/" target="_blank">
+      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" height="42px"/>
+    </a>
+    <!-- Flutter -->
+    <a href="https://flutter.dev/" target="_blank">
+      <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter" height="42px"/>
+    </a>
     <!-- Django -->
     <a href="https://www.djangoproject.com/" target="_blank"> <img align="left" src="https://static-00.iconduck.com/assets.00/django-icon-1606x2048-lwmw1z73.png" alt="Django" height="42px"/> </a> 
     <!-- Python -->
