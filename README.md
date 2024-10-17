@@ -1,6 +1,4 @@
 <h1>Hello, I'm Eunjin Woo 🌞</h1>
-
-<h2>🐮 About Me</h2>
 <p>
   A frontend developer who finds great fulfillment in diving deep into problems 
   and discovering effective solutions, always eager to learn and embrace new challenges. 🙂
