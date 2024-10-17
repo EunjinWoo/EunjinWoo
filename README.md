@@ -84,7 +84,7 @@
     </a>
     <!-- Android Studio -->
     <a href="https://developer.android.com/studio" target="_blank"> 
-  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" height="42px"/> 
+  <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/92/Android_Studio_Trademark.svg" alt="Android Studio" height="42px"/> 
 </a>
     <!-- TypeScript -->
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></a>
