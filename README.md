@@ -2,14 +2,19 @@
 
 ## 🐮 About Me
 웹 프론트엔드 개발자로서 성장하고자 하는 강한 열정을 가지고 있습니다. 문제를 당면했을 때 깊이 파고들어 이해하고, 효과적인 해결책을 찾는 과정에서 큰 보람을 느낍니다.
-
 “Experience never gets old” 라는 영화 <인턴>의 문구에서 영감을 받아, 항상 새로운 것을 배우고 도전하는 것을 즐깁니다. 또한, 경험한 것들을 다시 꺼내볼 수 있게끔 잘 정리해 기록해두는 것을 중요하게 생각합니다.
 
 I have a strong passion for growing as a web frontend developer. When faced with problems, I take great pride in diving deep to understand them and finding effective solutions.
-
 Inspired by the quote 'Experience never gets old' from the movie The Intern, I always enjoy learning new things and embracing challenges. I also place great importance on organizing and recording my experiences so that I can revisit them later.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" /></p>
+
+## 👩‍🏫 Education
+- KyungHee University (2020.03 - ing )
+  - major : Computer Engineering
+  - minor : Art & Technology
+
+
 
 
 ### ♻️ 주제
