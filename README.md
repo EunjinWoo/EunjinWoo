@@ -1,20 +1,30 @@
-# Hello, I'm Eunjin Woo 🌞
+<h1>Hello, I'm Eunjin Woo 🌞</h1>
 
-## 🐮 About Me
-문제에 깊이 파고들어 효과적인 해결책을 찾는 데에서 큰 보람을 느끼며, 항상 배우고 새로운 도전을 받아들이는 것에 열정적인 프론트엔드 개발자, 우은진입니다.
-
-A frontend developer who finds great fulfillment in diving deep into problems and discovering effective solutions, always eager to learn and embrace new challenges.
+<h2>🐮 About Me</h2>
+<p>
+  문제에 깊이 파고들어 효과적인 해결책을 찾는 데에서 큰 보람을 느끼며, 
+  항상 배우고 새로운 도전을 받아들이는 것에 열정적인 프론트엔드 개발자, 우은진입니다.
+</p>
+<p>
+  A frontend developer who finds great fulfillment in diving deep into problems 
+  and discovering effective solutions, always eager to learn and embrace new challenges.
+</p>
 
 <div style="display: flex; justify-content: space-between;">
-<div style="width: 48%;">  
-## 👩‍🏫 Education
-- KyungHee University (2020.03 - ing )
-  - major : Computer Engineering
-  - minor : Art & Technology
-</div>
-<div style="width: 48%;">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" /></p>
-</div>
+  <div style="width: 48%;">
+    <h2>👩‍🏫 Education</h2>
+    <ul>
+      <li>KyungHee University (2020.03 - ing)</li>
+      <ul>
+        <li>major : Computer Engineering</li>
+        <li>minor : Art & Technology</li>
+      </ul>
+    </ul>
+  </div>
+  
+  <div style="width: 48%;">
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 100%;" /></p>
+  </div>
 </div>
 
 
