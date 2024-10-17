@@ -3,7 +3,7 @@
 <h3>🐮 About Me</h3>
 <p>
   문제에 깊이 파고들어 효과적인 해결책을 찾는 데에서 큰 보람을 느끼며, 
-  항상 배우고 새로운 도전을 받아들이는 것에 열정적인 프론트엔드 개발자, 우은진입니다.
+  항상 배우고 새로운 도전을 받아들이는 것에 열정적인 프론트엔드 개발자입니다.
 </p>
 <p>
   A frontend developer who finds great fulfillment in diving deep into problems 
