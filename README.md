@@ -10,9 +10,9 @@
   and discovering effective solutions, always eager to learn and embrace new challenges.
 </p>
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
   <tr>
-    <td style="vertical-align: top; width: 50%; border: none;">
+    <td style="vertical-align: top; width: 50%; border: none; padding: 0;">
       <h4>Education</h4>
       <ul>
         <li>KyungHee University (2020.03 - ing)</li>
