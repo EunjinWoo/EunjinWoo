@@ -36,7 +36,6 @@
     </ul>
 
 <h3>💻 Tech Skills</h3>
-<p>    : things I've experienced </p>
   <div style="display: flex; gap: 5px">
     <!-- HTML -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
@@ -117,4 +116,4 @@
     <!-- Tensorflow -->
     <a href="https://www.tensorflow.org" target="_blank"> <img align="left" src="https://avatars.githubusercontent.com/u/15658638?s=280&v=4" alt="tensorflow" height="42px"/> </a> 
   </div>
-
+<p> -> things I've experienced.🧍‍♀️ </p>
