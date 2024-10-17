@@ -8,7 +8,7 @@
 <p>
   문제에 깊이 파고들어 효과적인 해결책을 찾는 데에서 큰 보람을 느끼며, 
   항상 배우고 새로운 도전을 받아들이는 것에 열정적인 프론트엔드 개발자입니다. 🙂
-</p></br>
+</p>
 
 <h3>👩‍🏫 Education</h3>
       <ul>
@@ -18,7 +18,6 @@
           <li>minor : Art & Technology</li>
         </ul>
       </ul>
-</br>
 
 <h3>🏆 Awards</h3>
     <ul>
@@ -26,7 +25,6 @@
       <li>2024 | KHUthon 기술상(Technical Award)</li>
       <li>2024 | Saarland University Summer Entrepreneurship Program - 1st Prize (Final Presentation)</li>
     </ul>
-</br>
 
 <h3>🤹 Activities</h3>
     <ul>
@@ -34,7 +32,6 @@
       <li>2024.07 | Saarland University Summer Entrepreneurship Program</li>
       <li>2024.08 - (ing) | 9roomthonUniv 구름톤유니브</li>
     </ul>
-</br>
 
 <h3>💻 Tech Skills</h3>
   <div style="display: flex; gap: 5px">
@@ -119,5 +116,4 @@
   </div>
 </br><p> -> things I've experienced.🧍‍♀️ </p>
 
-</br>
 <img src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 50%;" />
