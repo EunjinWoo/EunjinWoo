@@ -10,22 +10,24 @@
   and discovering effective solutions, always eager to learn and embrace new challenges.
 </p>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-    <h2>👩‍🏫 Education</h2>
-    <ul>
-      <li>KyungHee University (2020.03 - ing)</li>
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 50%;">
+      <h2>👩‍🏫 Education</h2>
       <ul>
-        <li>major : Computer Engineering</li>
-        <li>minor : Art & Technology</li>
+        <li>KyungHee University (2020.03 - ing)</li>
+        <ul>
+          <li>major : Computer Engineering</li>
+          <li>minor : Art & Technology</li>
+        </ul>
       </ul>
-    </ul>
-  </div>
-  
-  <div style="width: 48%;">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 100%;" /></p>
-  </div>
-</div>
+    </td>
+    <td style="vertical-align: top; width: 50%;">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
+
 
 
 
