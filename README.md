@@ -42,62 +42,50 @@
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="42px"/> 
     </a>
-    
     <!-- CSS -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> 
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="42px"/> 
     </a>
-    
     <!-- C++ -->
     <a href="https://en.cppreference.com/w/" target="_blank"> 
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" height="42px"/> 
     </a>
-    
     <!-- Java -->
     <a href="https://www.java.com/" target="_blank"> 
       <img align="left" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="42px"/> 
     </a>
-    
     <!-- MySQL -->
     <a href="https://www.mysql.com/" target="_blank"> 
       <img align="left" src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL" height="42px"/> 
     </a>
-    
     <!-- SQLite -->
     <a href="https://www.sqlite.org/" target="_blank"> 
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/38/SQLite370.svg" alt="SQLite" height="42px"/> 
     </a>
-    
     <!-- MongoDB -->
     <a href="https://www.mongodb.com/" target="_blank"> 
       <img align="left" src="https://webimages.mongodb.com/_com_assets/cms/kuyjhk487p8kwd52b-MongoDB_Logo_FullColorBlack_RGB.svg" alt="MongoDB" height="42px"/> 
     </a>
-    
     <!-- JavaScript -->
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" height="42px"/> 
     </a>
-    
     <!-- Jupyter Notebook -->
     <a href="https://jupyter.org/" target="_blank"> 
       <img align="left" src="https://jupyter.org/assets/main-logo.svg" alt="Jupyter Notebook" height="42px"/> 
     </a>
-    
     <!-- Visual Studio -->
     <a href="https://visualstudio.microsoft.com/" target="_blank"> 
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" alt="Visual Studio" height="42px"/> 
     </a>
-    
     <!-- VSCode -->
     <a href="https://code.visualstudio.com/" target="_blank"> 
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="VS Code" height="42px"/> 
     </a>
-    
     <!-- Android Studio -->
     <a href="https://developer.android.com/studio" target="_blank"> 
       <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" height="42px"/> 
     </a>
-
     <!-- TypeScript -->
     <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="Typescirpt" height ="42px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png"></a>
     <!-- React -->
