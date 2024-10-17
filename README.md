@@ -10,10 +10,7 @@
   and discovering effective solutions, always eager to learn and embrace new challenges.
 </p>
 
-<table style="border-collapse: collapse; width: 100%; table-layout: fixed;">
-  <tr>
-    <td style="vertical-align: top; width: 50%; border: none; padding: 0;">
-      <h4>Education</h4>
+<h3>👩‍🏫 Education</h3>
       <ul>
         <li>KyungHee University (2020.03 - ing)</li>
         <ul>
@@ -21,14 +18,8 @@
           <li>minor : Art & Technology</li>
         </ul>
       </ul>
-    </td>
-    <td style="vertical-align: top; width: 50%; border: none;">
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 100%;" />
-    </td>
-  </tr>
-</table>
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 100%;" />
 
 
 
