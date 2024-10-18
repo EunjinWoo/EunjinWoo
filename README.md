@@ -26,7 +26,7 @@
 
 <h2>🤹 Activities</h2>
     <ul>
-      <li>2022.08-12 | SpartaCodingCamp AI Web Development Track 8th 수료</li>
+      <li>2023.08-12 | SpartaCodingCamp AI Web Development Track 8th 수료</li>
       <li>2024.07 | Saarland University Summer Entrepreneurship Program</li>
       <li>2024.08 - (ing) | 9roomthonUniv 구름톤유니브</li>
     </ul>
