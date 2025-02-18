@@ -29,7 +29,8 @@
     <ul>
       <li>2023.08-12 | SpartaCodingCamp AI Web Development Track 8th 수료</li>
       <li>2024.07 | Saarland University Summer Entrepreneurship Program</li>
-      <li>2024.08 - (ing) | 9roomthonUniv 구름톤유니브</li>
+      <li>2024.08 - (ing) | 9roomthonUniv 구름톤유니브 3기</li>
+      <li>2025.02 - (ing) | <a href="https://www.kusitms.com/">KUSITMS</a> 31기 백엔드 파트</li>
     </ul>
 
 <h2>💻 Tech Skills</h2>
