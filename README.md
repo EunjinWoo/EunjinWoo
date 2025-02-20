@@ -124,4 +124,4 @@
   </div>
 </br></br></br><p> -> things I've experienced.🧍‍♀️ </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 50%;" />
+<!--<img src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 50%;" />-->
