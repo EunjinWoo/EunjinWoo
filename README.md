@@ -44,11 +44,11 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en&title_color=373534&text_color=373534"
     alt="GitHub Stats"
-    style="height: 200px; object-fit: contain;"
+    style="height: 160px; object-fit: contain;"
   />
   <img
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=booster"
     alt="Solved.ac Profile"
-    style="height: 200px; object-fit: contain;"
+    style="height: 160px; object-fit: contain;"
   />
 </div>
