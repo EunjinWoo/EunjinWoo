@@ -46,9 +46,9 @@
     alt="GitHub Stats"
     style="height: 170px; object-fit: contain;"
   />
-  <img
+  <!--<img
     src="http://mazassumnida.wtf/api/v2/generate_badge?boj=booster"
     alt="Solved.ac Profile"
     style="height: 170px; object-fit: contain;"
-  />
+  />-->
 </div>
