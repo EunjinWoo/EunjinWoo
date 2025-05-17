@@ -32,7 +32,12 @@
       <li>2025.03 - (ing) | <a href="https://www.kusitms.com/">KUSITMS</a> 31th KUSITMS WebTF Back-end part</li>
     </ul>
 
+<!--
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=EunjinWoo&theme=react-dark&bg_color=20232a&hide_border=true&line=5bcdec&color=5bcdec" alt="GitHub Activity Graph" />
 </div>
-<!--<img src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en" alt="EunjinWoo" style="width: 50%;" />-->
+-->
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=EunjinWoo&show_icons=true&locale=en&title_color=373534&text_color=373534" alt="EunjinWoo" style="width: 50%;" />
