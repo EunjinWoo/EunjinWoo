@@ -20,6 +20,7 @@
       <li>2024 | Saarland University Summer Entrepreneurship Program - 1st Prize (Final Presentation)</li>
       <li>2024 | KHU 2024 Art&Technology Awards - Bronze Prize </li>
       <li>2025 | KHUDA 2025-1 Toy Project Conference - 2nd Prize </li>
+      <li>2025 | KUSITMS 31th Meet-up Project 최우수상 </li>
     </ul>
 
 <h2>🤹 Activities</h2>
