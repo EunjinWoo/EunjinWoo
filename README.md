@@ -20,7 +20,7 @@
       <li>2024 | Saarland University Summer Entrepreneurship Program - 1st Prize (Final Presentation)</li>
       <li>2024 | KHU 2024 Art&Technology Awards - Bronze Prize </li>
       <li>2025 | KHUDA 2025-1 Toy Project Conference - 2nd Prize </li>
-      <li>2025 | KUSITMS 31th Meet-up Project 최우수상 </li>
+      <li>2025 | KUSITMS 31st Meet-up Project 최우수상 </li>
     </ul>
 
 <h2>🤹 Activities</h2>
@@ -29,8 +29,8 @@
       <li>2024.07 | Saarland University Summer Entrepreneurship Program</li>
       <li>2024.08-12 | <a href="https://9oormthon.university/">9roomthonUniv 구름톤유니브</a> 3th</li>
       <li>2025.01 - (ing) | KyungHee University BigData & AI society <a href="https://www.instagram.com/khu_da.official/">KHUDA</a> 7th</li>
-      <li>2025.02 - (ing) | <a href="https://www.kusitms.com/">KUSITMS</a> 31th Back-end part</li>
-      <li>2025.03 - (ing) | <a href="https://www.kusitms.com/">KUSITMS</a> 31th KUSITMS WebTF Back-end part</li>
+      <li>2025.02 - (ing) | <a href="https://www.kusitms.com/">KUSITMS</a> 31st Back-end part</li>
+      <li>2025.03 - (ing) | <a href="https://www.kusitms.com/">KUSITMS</a> 31st KUSITMS WebTF Back-end part</li>
     </ul>
 
 <!--
