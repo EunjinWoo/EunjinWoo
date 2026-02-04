@@ -28,7 +28,7 @@
       <li>2025.02-12 | <a href="https://www.kusitms.com/">KUSITMS</a> 31st, 32nd Back-end part</li>
       <li>2025.06-12 | <a href="https://www.kusitms.com/">KUSITMS</a> 32nd Education Planning Team Lead(교육기획팀장)</li>
       <li>2025.03-06  | <a href="https://www.kusitms.com/">KUSITMS</a> 31st KUSITMS WebTF Back-end part</li>
-      <li>2025.01-06 | KyungHee University BigData & AI society <a href="https://www.instagram.com/khu_da.official/">KHUDA</a> 7th</li>
+      <li>2025.01-07 | KyungHee University BigData & AI society <a href="https://www.instagram.com/khu_da.official/">KHUDA</a> 7th</li>
       <li>2024.08-12 | <a href="https://9oormthon.university/">9roomthonUniv 구름톤유니브</a> 3th</li>
       <li>2024.07 | Saarland University Summer Entrepreneurship Program</li>
       <li>2023.08-12 | SpartaCodingCamp AI Web Development Track 8th 수료</li>
