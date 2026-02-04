@@ -26,7 +26,7 @@
 <h2>🤹 Activities</h2>
     <ul>
       <li>2025.02-12 | <a href="https://www.kusitms.com/">KUSITMS</a> 31st, 32nd Back-end part</li>
-      <li>2025.06-12 | <a href="https://www.kusitms.com/">KUSITMS</a> 32nd Education Planning Team Lead</li>
+      <li>2025.06-12 | <a href="https://www.kusitms.com/">KUSITMS</a> 32nd Education Planning Team Lead(교육기획팀장)</li>
       <li>2025.03-06  | <a href="https://www.kusitms.com/">KUSITMS</a> 31st KUSITMS WebTF Back-end part</li>
       <li>2025.01 - (ing) | KyungHee University BigData & AI society <a href="https://www.instagram.com/khu_da.official/">KHUDA</a> 7th</li>
       <li>2024.08-12 | <a href="https://9oormthon.university/">9roomthonUniv 구름톤유니브</a> 3th</li>
