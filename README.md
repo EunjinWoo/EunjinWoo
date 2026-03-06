@@ -8,6 +8,11 @@
   항상 배우고 새로운 도전을 받아들이는 것에 열정적인 개발자입니다. 🙂
 </p>-->
 
+<h2>👩🏻‍💻 Work Experience</h2>
+  <ul>
+    <li>NangmanAzit (2026.03 - ing) - Backend Engineer Intern</li>
+  </ul>
+
 <h2>👩‍🏫 Education</h2>
   <ul>
     <li>KyungHee University (2020.03 - ing) - Computer Engineering</li>
@@ -15,6 +20,7 @@
 
 <h2>🏆 Awards</h2>
     <ul>
+      <li>2025 | 과학기술정보통신부 HANIEUM DREAMUP(ICT Mentoring) 공모전 창의 도전형 장려상 </li>
       <li>2025 | KUSITMS 31st Meet-up Project 최우수상 </li>
       <li>2025 | KHUDA 2025-1 Toy Project Conference - 2nd Prize </li>
       <li>2024 | KHU 2024 Art&Technology Awards - Bronze Prize </li>
