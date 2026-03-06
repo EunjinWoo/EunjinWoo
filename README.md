@@ -20,7 +20,7 @@
 
 <h2>🏆 Awards</h2>
     <ul>
-      <li>2025 | 과학기술정보통신부 HANIEUM DREAMUP(ICT Mentoring) 공모전 창의 도전형 장려상 </li>
+      <li>2025 | 과학기술정보통신부 HANIUM DREAMUP(ICT Mentoring) 공모전 창의 도전형 장려상 </li>
       <li>2025 | KUSITMS 31st Meet-up Project 최우수상 </li>
       <li>2025 | KHUDA 2025-1 Toy Project Conference - 2nd Prize </li>
       <li>2024 | KHU 2024 Art&Technology Awards - Bronze Prize </li>
