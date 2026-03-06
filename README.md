@@ -8,7 +8,7 @@
   항상 배우고 새로운 도전을 받아들이는 것에 열정적인 개발자입니다. 🙂
 </p>-->
 
-<h2>👩🏻‍💻 Work Experience</h2>
+<h2>👩🏻‍💻 Experience</h2>
   <ul>
     <li>NangmanAzit (2026.03 - ing) - Backend Engineer Intern</li>
   </ul>
