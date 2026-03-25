@@ -1,4 +1,4 @@
-<h1>Hello, I'm Eunjin Woo 🌞</h1>
+<h3>Hello, I'm Eunjin Woo 🌞</h3>
 <!--<p>
   A developer who finds great fulfillment in diving deep into problems 
   and discovering effective solutions, always eager to learn and embrace new challenges. 🙂
@@ -8,17 +8,17 @@
   항상 배우고 새로운 도전을 받아들이는 것에 열정적인 개발자입니다. 🙂
 </p>-->
 
-<h2>🏢 Experience</h2>
+<h4>🏢 Experience</h4>
   <ul>
     <li>NangmanAzit (2026.03 - ing) - Backend Engineer Intern</li>
   </ul>
 
-<h2>👩‍🏫 Education</h2>
+<h4>👩‍🏫 Education</h4>
   <ul>
     <li>KyungHee University (2020.03 - ing) - Computer Engineering</li>
   </ul>
 
-<h2>🏆 Awards</h2>
+<h4>🏆 Awards</h4>
     <ul>
       <li>2025 | 과학기술정보통신부 HANIUM DREAMUP(ICT Mentoring) 공모전 창의 도전형 장려상 </li>
       <li>2025 | KUSITMS 31st Meet-up Project 최우수상 </li>
@@ -29,7 +29,7 @@
       <li>2023 | T.G.thon 우승</li>
     </ul>
 
-<h2>🤹 Activities</h2>
+<h4>🤹 Activities</h4>
     <ul>
       <li>2025.02-12 | <a href="https://www.kusitms.com/">KUSITMS</a> 31st, 32nd Back-end part</li>
       <li>2025.06-12 | <a href="https://www.kusitms.com/">KUSITMS</a> 32nd Education Planning Team Lead(교육기획팀장)</li>
@@ -37,7 +37,7 @@
       <li>2025.01-07 | KyungHee University BigData & AI society <a href="https://www.instagram.com/khu_da.official/">KHUDA</a> 7th</li>
       <li>2024.08-12 | <a href="https://9oormthon.university/">9roomthonUniv 구름톤유니브</a> 3th</li>
       <li>2024.07 | Saarland University Summer Entrepreneurship Program</li>
-      <li>2023.08-12 | SpartaCodingCamp AI Web Development Track 8th 수료</li>
+      <!--<li>2023.08-12 | SpartaCodingCamp AI Web Development Track 8th 수료</li>-->
     </ul>
 
 <!--
