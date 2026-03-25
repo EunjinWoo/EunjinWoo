@@ -1,4 +1,4 @@
-<h3>Hello, I'm Eunjin Woo 🌞</h3>
+<h2>Hello, I'm Eunjin Woo 🌞</h2>
 <!--<p>
   A developer who finds great fulfillment in diving deep into problems 
   and discovering effective solutions, always eager to learn and embrace new challenges. 🙂
@@ -8,17 +8,17 @@
   항상 배우고 새로운 도전을 받아들이는 것에 열정적인 개발자입니다. 🙂
 </p>-->
 
-<h4>🏢 Experience</h4>
+<h3>🏢 Experience</h3>
   <ul>
     <li>NangmanAzit (2026.03 - ing) - Backend Engineer Intern</li>
   </ul>
 
-<h4>👩‍🏫 Education</h4>
+<h3>👩‍🏫 Education</h3>
   <ul>
     <li>KyungHee University (2020.03 - ing) - Computer Engineering</li>
   </ul>
 
-<h4>🏆 Awards</h4>
+<h3>🏆 Awards</h3>
     <ul>
       <li>2025 | 과학기술정보통신부 HANIUM DREAMUP(ICT Mentoring) 공모전 창의 도전형 장려상 </li>
       <li>2025 | KUSITMS 31st Meet-up Project 최우수상 </li>
@@ -29,7 +29,7 @@
       <li>2023 | T.G.thon 우승</li>
     </ul>
 
-<h4>🤹 Activities</h4>
+<h3>🤹 Activities</h3>
     <ul>
       <li>2025.02-12 | <a href="https://www.kusitms.com/">KUSITMS</a> 31st, 32nd Back-end part</li>
       <li>2025.06-12 | <a href="https://www.kusitms.com/">KUSITMS</a> 32nd Education Planning Team Lead(교육기획팀장)</li>
