@@ -14,14 +14,14 @@
       NangmanAzit
       <ul>
         <li>2026.03 - 2026.05 · Backend Engineer Intern</li>
-        <li>2026.06 - Present · Backend Engineer</li>
+        <li>2026.06 - present · Backend Engineer</li>
       </ul>
     </li>
   </ul>
 
 <h3>👩‍🏫 Education</h3>
   <ul>
-    <li>KyungHee University (2020.03 - ing) - Computer Engineering</li>
+    <li>KyungHee University (2020.03 - present) - Computer Engineering</li>
   </ul>
 
 <h3>🏆 Awards</h3>
