@@ -10,7 +10,8 @@
 
 <h3>🏢 Experience</h3>
   <ul>
-    <li>NangmanAzit (2026.03 - ing) - Backend Engineer Intern</li>
+    <li>NangmanAzit (2026.03 - 05) - Backend Engineer Intern</li>
+    <li>NangmanAzit (2026.06 - ing) - Backend Engineer</li>
   </ul>
 
 <h3>👩‍🏫 Education</h3>
@@ -20,6 +21,7 @@
 
 <h3>🏆 Awards</h3>
     <ul>
+      <li>2026 | 2026 <a href="https://uibowl.io/">ui bowl</a> <a href="https://www.instagram.com/p/DY5_z4fEk51/?img_index=1">사이드 프로젝트 지원 이벤트</a> 1등 </li>
       <li>2025 | 과학기술정보통신부 HANIUM DREAMUP(ICT Mentoring) 공모전 창의 도전형 장려상 </li>
       <li>2025 | KUSITMS 31st Meet-up Project 최우수상 </li>
       <li>2025 | KHUDA 2025-1 Toy Project Conference - 2nd Prize </li>
