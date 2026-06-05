@@ -10,8 +10,13 @@
 
 <h3>🏢 Experience</h3>
   <ul>
-    <li>NangmanAzit (2026.03 - 05) - Backend Engineer Intern</li>
-    <li>NangmanAzit (2026.06 - ing) - Backend Engineer</li>
+    <li>
+      NangmanAzit
+      <ul>
+        <li>2026.03 - 2026.05 · Backend Engineer Intern</li>
+        <li>2026.06 - Present · Backend Engineer</li>
+      </ul>
+    </li>
   </ul>
 
 <h3>👩‍🏫 Education</h3>
