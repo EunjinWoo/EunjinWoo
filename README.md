@@ -19,10 +19,12 @@
     </li>
   </ul>
 
+<!--
 <h3>👩‍🏫 Education</h3>
   <ul>
     <li>KyungHee University (2020 - 2026) - Computer Engineering</li>
   </ul>
+-->
 
 <h3>🏆 Awards</h3>
     <ul>
